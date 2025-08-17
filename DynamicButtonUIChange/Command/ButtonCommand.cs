@@ -1,6 +1,6 @@
 ﻿using System.Windows.Input;
 
-namespace DynamicButtonUIChange.ButtonCommand
+namespace DynamicUIChange.ButtonCommandManager
 {
     static class ButtonCommand
     {
