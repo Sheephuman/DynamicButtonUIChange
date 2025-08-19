@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace DynamicUIChange_Livet.Views
+namespace DynamicUIChange_Prism.Views
 {
     /// <summary>
     /// View1.xaml の相互作用ロジック

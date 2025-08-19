@@ -1,11 +1,11 @@
-﻿using DynamicUIChange_Livet.Models;
+﻿using DynamicUIChange_Prism.Models;
 using Prism.Commands;
 using Prism.Mvvm;
 using System;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 
-namespace DynamicUIChange_Livet.ViewModels
+namespace DynamicUIChange_Prism.ViewModels
 {
     public class ViewModel1 : BindableBase
     {

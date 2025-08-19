@@ -1,4 +1,4 @@
-﻿using DynamicUIChange_Livet.ViewModels;
+﻿using DynamicUIChange_Prism.ViewModels;
 using Moq;
 using System.IO;
 using System.Windows.Media.Imaging;

@@ -1,6 +1,6 @@
 ﻿using System.Windows.Input;
 
-namespace DynamicUIChange_Livet.ButtonCommandManager
+namespace DynamicUIChange_Prism.ButtonCommandManager
 {
     static class ButtonCommand
     {

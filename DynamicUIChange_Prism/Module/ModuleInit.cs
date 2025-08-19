@@ -1,10 +1,10 @@
-﻿using DynamicChange_Prism.Views;
-using DynamicUIChange_Livet.Views;
+﻿using DynamicUIChange_Prism.Views;
+using DynamicUIChange_Prism.Views;
 using Prism.Ioc;
 using Prism.Modularity;
 using Prism.Regions;
 
-namespace DynamicUIChange_Livet.Module
+namespace DynamicUIChange_Prism.Module
 {
     [Module(ModuleName = "MyModule")]
     public class ModuleInit : IModule

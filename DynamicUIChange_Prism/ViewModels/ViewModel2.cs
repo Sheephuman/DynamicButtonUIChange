@@ -1,11 +1,11 @@
-﻿using DynamicUIChange_Livet.Models;       // データモデルを使用
+﻿using DynamicUIChange_Prism.Models;       // データモデルを使用
 using Prism.Commands;                   // Prismのコマンド機能（DelegateCommandなど）を使用
 using Prism.Mvvm;                       // PrismのMVVM基盤（BindableBaseなど）を使用
 using System;
 using System.Collections.ObjectModel;   // ObservableCollectionを使用
 using System.Windows.Input;             // ICommandインターフェースを使用
 
-namespace DynamicUIChange_Livet.ViewModels
+namespace DynamicUIChange_Prism.ViewModels
 {
     internal class ViewModel2 : BindableBase
     {

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Windows.Media;
 
-namespace DynamicUIChange_Livet.Models
+namespace DynamicUIChange_Prism.Models
 {
 
 

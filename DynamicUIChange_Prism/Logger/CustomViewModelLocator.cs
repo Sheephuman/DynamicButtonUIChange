@@ -3,7 +3,7 @@ using Prism.Logging;
 
 using System;
 
-namespace DynamicUIChange_Livet
+namespace DynamicUIChange_Prism
 {
     public class CustomViewModelLocator
     {

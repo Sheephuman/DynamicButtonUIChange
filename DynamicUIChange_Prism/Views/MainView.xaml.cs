@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace DynamicUIChange_Livet.Views
+namespace DynamicUIChange_Prism.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

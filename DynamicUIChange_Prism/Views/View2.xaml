@@ -1,10 +1,10 @@
-﻿<UserControl x:Class="DynamicChange_Prism.Views.View2"
+﻿<UserControl x:Class="DynamicUIChange_Prism.Views.View2"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
               
-             xmlns:local="clr-namespace:DynamicUIChange_Livet.ViewModels" d:DataContext="{d:DesignInstance Type=local:ViewModel1}"
+             xmlns:local="clr-namespace:DynamicUIChange_Prism.ViewModels" d:DataContext="{d:DesignInstance Type=local:ViewModel1}"
              mc:Ignorable="d" 
           xmlns:prism="http://prismlibrary.com/"
          prism:ViewModelLocator.AutoWireViewModel="True"

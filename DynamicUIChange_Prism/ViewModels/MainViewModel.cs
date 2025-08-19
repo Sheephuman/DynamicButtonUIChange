@@ -1,11 +1,10 @@
-﻿using DynamicChange_Prism.Views;
-using DynamicUIChange_Livet.Views;
+﻿using DynamicUIChange_Prism.Views;
 using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Regions;
 using System.Windows.Controls;
 
-namespace DynamicUIChange_Livet.ViewModels
+namespace DynamicUIChange_Prism.ViewModels
 {
     public class MainViewModel : BindableBase
     {

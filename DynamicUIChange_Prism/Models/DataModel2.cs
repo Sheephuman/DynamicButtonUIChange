@@ -1,4 +1,4 @@
-﻿namespace DynamicUIChange_Livet.Models
+﻿namespace DynamicUIChange_Prism.Models
 {
 
 

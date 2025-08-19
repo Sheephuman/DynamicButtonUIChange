@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace DynamicChange_Prism.Views
+namespace DynamicUIChange_Prism.Views
 {
     /// <summary>
     /// View2.xaml の相互作用ロジック

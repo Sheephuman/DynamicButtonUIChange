@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace DynamicChange_Prism.Command
+namespace DynamicUIChange_Prism.Command
 {
 
     class RelayCommand : ICommand

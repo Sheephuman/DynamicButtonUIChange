@@ -1,9 +1,9 @@
-﻿using DynamicUIChange_Livet.Models;
+﻿using DynamicUIChange_Prism.Models;
 using Prism.Commands;
 using Prism.Mvvm;
 using System;
 
-namespace DynamicUIChange_Livet.ViewModels
+namespace DynamicUIChange_Prism.ViewModels
 {
     internal class ViewModel3 : BindableBase
     {

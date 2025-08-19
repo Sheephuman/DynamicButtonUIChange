@@ -1,15 +1,14 @@
 ﻿using DryIoc;
-using DynamicChange_Prism.Views;
-using DynamicUIChange_Livet.Module;
-using DynamicUIChange_Livet.ViewModels;
-using DynamicUIChange_Livet.Views;
+using DynamicUIChange_Prism.Module;
+using DynamicUIChange_Prism.ViewModels;
+using DynamicUIChange_Prism.Views;
 using Prism.DryIoc;
 using Prism.Ioc;
 using Prism.Modularity;
 using System.Windows;
 
 
-namespace DynamicUIChange_Livet
+namespace DynamicUIChange_Prism
 {
     /// <summary>
     /// Interaction logic for App.xaml
