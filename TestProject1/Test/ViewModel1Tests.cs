@@ -1,10 +1,10 @@
-﻿using DynamicUIChange_Prism.ViewModels;
+﻿using DynamicUIChange_Livet.ViewModels;
 using Moq;
 using System.IO;
 using System.Windows.Media.Imaging;
 
 
-namespace DinumicUIChange_Livet.Test
+namespace DynamicUIChange_Livet.Test
 {
     public class ViewModel1Tests
     {

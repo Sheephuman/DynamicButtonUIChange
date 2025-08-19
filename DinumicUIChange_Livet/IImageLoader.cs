@@ -4,7 +4,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 
 
-namespace DinumicUIChange_Livet
+namespace DynamicUIChange_Livet
 {
     public class ImageLoaderClass : ViewModel1.IImageLoader
     {
